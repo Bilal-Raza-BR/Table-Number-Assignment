@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url("https://png.pngtree.com/thumb_back/fw800/background/20231011/pngtree-contemporary-texture-sleek-brown-wooden-furniture-wallpaper-image_13621061.png");
+background-position: center;
+background-size: cover;
+width: 100%;
+height: auto; 
+text-align: center;
+color: white;
+text-shadow: 5px 5px 5px rgb(189, 186, 186); 
+padding-top: 100px;   
+}
+table{
+    margin: auto;
+}
+th{
+    border:2px double white;
+    
+}
+th{
+    width: 50px;
+    box-shadow: 0px 0px 20px 3px rgba(0, 0, 0, 0.692);
+}
